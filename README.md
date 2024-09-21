@@ -10,7 +10,7 @@ SWOT Analysis: An in-depth examination of each platform’s strengths, weaknesse
 Comparison Table: A side-by-side comparison of key metrics such as subscription pricing, original content strength, regional focus, and global reach.
 Data Analysis: An analysis of various metrics using Python to derive insights.
 Visualizations: Graphical representations of data, including bar charts and pie charts, to illustrate the competitive landscape effectively.
-Key Findings
+# Key Findings
 Netflix: Known for its vast library of original content and global reach but faces challenges with high pricing and regional content.
 Amazon Prime Video: Offers a bundled service with Amazon but suffers from a confusing user interface.
 Disney+ Hotstar: Strong in regional content and exclusive Disney titles, but reliant on live sports and limited international offerings.
@@ -21,20 +21,24 @@ To run the analysis and generate visualizations, you will need:
 
 Python 3.x: The programming language for analysis.
 Libraries: Pandas for data manipulation and Matplotlib for visualization.
+
 # Installation
 Clone the repository to your local machine.
+
 Navigate to the project directory.
 Install the required Python libraries.
+
 # Data Visualization
 The project includes several visualizations to effectively communicate findings:
-
 Bar Charts: Used to compare subscription pricing and content strengths.
 Pie Chart: Illustrates the percentage distribution of subscription prices among the platforms.
+
 # Future Enhancements
 Expand the analysis to include user satisfaction surveys and churn rates.
 Incorporate more detailed metrics on content engagement and viewership trends.
 Consider geographical expansion strategies for each platform.
-License
+
+# License
 This project is open-source and licensed under the MIT License, allowing for personal and commercial use.
 
 # Acknowledgments
